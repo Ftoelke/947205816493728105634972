@@ -1,0 +1,2 @@
+finale_Praktikum_1_LogisticRegression_bias_minimised.ipynb -> neuste Bias-midigierte Version
+finale_Praktikum_1_LogisticRegression_with_bias.ipynb -> erste simpleste Version
